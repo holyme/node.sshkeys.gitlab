@@ -1,0 +1,22 @@
+{
+    "name": "node.sshkeys.gitlab",
+    "version": "0.0.1",
+    "description": "SSH key allows you to establish a secure connection between your computer and GitLab",
+    "main": "index.js",
+    "homepage": "https://github.com/wiky/node.sshkeys.gitlab.git",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:wiky/node.sshkeys.gitlab.git"
+    },
+    "keywords": [
+        "ssh key",
+        "gitlab"
+    ],
+    "dependencies": {
+        "node.gitlab": "*"
+    },
+    "author": {
+        "name": "wiky",
+        "email": "wiky@f2e.cc"
+    }
+}
